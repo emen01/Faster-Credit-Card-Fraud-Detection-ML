@@ -1,1 +1,4 @@
-
+We use a real dataset to train each of these models.
+The dataset includes information about transactions made by credit cards in September 2013 by European cardholders. 
+We will use the trained model to assess if a credit card transaction is legitimate or not with Scikit-Learn Python interface,
+and Snap Machine Learning (Snap ML) library.
